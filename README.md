@@ -3,12 +3,16 @@
 Este es un proyecto sencillo desarrollado con Python y Flask que permite generar contraseñas seguras y aleatorias.
 
 
+
+
 Características:
 
 Generación de contraseñas seguras.
 Tamaño configurable.
 Selección de mayúsculas, minúsculas, números y símbolos.
 Interfaz web simple y fácil de usar.
+
+
 
 Requisitos:
 
@@ -22,6 +26,8 @@ Para ejecutar la aplicación Flask:
 
 Luego visita en tu navegador:
   http://localhost:5000
+
+
 
   
 
